@@ -1,0 +1,31 @@
+#heading{
+    background-color: rgb(175, 243, 16);
+    text-align: center;
+  
+}
+
+.main-container{
+  background-color: rgb(217, 253, 9);
+}
+#mainContainer{
+    width: auto;
+    border: auto solid green;
+    padding: auto;
+    margin: auto;
+}
+.container{
+    border-style: solid;
+    color:whitesmoke;
+    background-color: black;
+}
+
+h5{
+    background-color: rgb(14, 241, 14);
+    padding: 20px;
+    display:none;
+    color: aliceblue;
+  }
+   
+
+
+  
